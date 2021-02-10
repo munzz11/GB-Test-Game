@@ -62,3 +62,7 @@ dkms.conf
 *.lst
 
 *.sym
+
+#IDE 
+
+*.vscode
